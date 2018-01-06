@@ -1,0 +1,16 @@
+---
+applications:
+- name: supplyservice
+  buildpack: java_buildpack_offline
+  memory: 1G
+  disk_quota: 256M
+  path: ./target/supplyservice-0.0.1-SNAPSHOT.jar
+
+  services:
+    - service-registry
+
+  env:
+    TRUST_CERTS: api.sys.cg.examples.cf
+    
+  
+    

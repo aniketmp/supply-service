@@ -1,0 +1,36 @@
+{
+	"Model Y": [
+		{
+			"season": "all-season",
+			"tiremodel": "stable",
+			"price": "1500",
+			"deliverydate": "10.01.2018"
+		},
+		{
+			"season": "all-season",
+			"tiremodel": "12months",
+			"price": "1750",
+			"deliverydate": "20.02.2018"
+		},
+		{
+			"season": "all-season",
+			"tiremodel": "xtra",
+			"price": "2000",
+			"deliverydate": "30.03.2018"
+		}
+	],
+	"Model Z": [
+		{
+			"season": "summer",
+			"tiremodel": "comfort",
+			"price": "1500",
+			"deliverydate": "2.01.2018"
+		},
+		{
+			"season": "summer",
+			"tiremodel": "look",
+			"price": "2500",
+			"deliverydate": "3.02.2018"
+		}
+	]
+}

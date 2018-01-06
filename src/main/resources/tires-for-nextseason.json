@@ -1,0 +1,53 @@
+{
+	"Model X": [
+		{
+			"season": "summer",
+			"tiremodel": "thunder",
+			"price": "2000"
+		},
+		{
+			"season": "winter",
+			"tiremodel": "race",
+			"price": "1000"
+		},
+		{
+			"season": "all-season",
+			"tiremodel": "care",
+			"price": "2000"
+		}
+	],
+	"Model Y": [
+		{
+			"season": "summer",
+			"tiremodel": "sunny",
+			"price": "1000"
+		},
+		{
+			"season": "winter",
+			"tiremodel": "blast",
+			"price": "1500"
+		},
+		{
+			"season": "all-season",
+			"tiremodel": "cage",
+			"price": "2000"
+		}
+	],
+	"Model Z": [
+		{
+			"season": "summer",
+			"tiremodel": "eagle",
+			"price": "1500"
+		},
+		{
+			"season": "winter",
+			"tiremodel": "snow",
+			"price": "2000"
+		},
+		{
+			"season": "all-season",
+			"tiremodel": "trust",
+			"price": "1750"
+		}
+	]
+}
